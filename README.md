@@ -21,7 +21,7 @@ AI Finance Advisor is a smart personal finance management web application design
 
 ---
 
-# Tech Stack 🛠️
+# Tech Stack 
 
 ## Frontend
 
@@ -324,7 +324,7 @@ Through this project, I gained practical experience in:
 
 ---
 
-# Author 👨
+# Author 
 
 **Pavan Prasad**  
 B.Tech CSE
